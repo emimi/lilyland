@@ -1,4 +1,4 @@
 lilyland
 ========
 
-My daughter's first website
+Lily's first website.
